@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Drought tolerant lawn climate illustration</title>
+  <desc id="desc">Stylized lawn scene with sun, hills, seed packets, and dry climate markers.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff7ea"/>
+      <stop offset="100%" stop-color="#eef4e4"/>
+    </linearGradient>
+    <linearGradient id="hill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8baa64"/>
+      <stop offset="100%" stop-color="#4f693e"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffdf8"/>
+      <stop offset="100%" stop-color="#f3ecdd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="34" fill="url(#sky)"/>
+  <circle cx="936" cy="146" r="74" fill="#f6d16f"/>
+  <circle cx="936" cy="146" r="52" fill="#ffeaad"/>
+  <g fill="#d9e5cb">
+    <circle cx="174" cy="128" r="38"/>
+    <circle cx="212" cy="116" r="44"/>
+    <circle cx="258" cy="132" r="30"/>
+  </g>
+  <path d="M0 468c103-66 228-106 354-90 106 13 190 59 289 61 131 1 223-97 365-80 78 9 135 48 192 109v292H0Z" fill="#cfdfb4"/>
+  <path d="M0 514c90-35 196-38 307 7 90 37 160 92 267 101 111 9 208-36 292-70 111-45 223-49 334 0v208H0Z" fill="url(#hill)"/>
+  <rect x="96" y="212" width="324" height="228" rx="28" fill="url(#panel)" stroke="#d6ceb9" stroke-width="4"/>
+  <rect x="126" y="244" width="92" height="132" rx="18" fill="#6b8a4f"/>
+  <rect x="230" y="244" width="70" height="132" rx="18" fill="#d5b770"/>
+  <rect x="310" y="244" width="78" height="132" rx="18" fill="#9bc27b"/>
+  <g fill="#edf5df">
+    <path d="M148 342c14-44 22-55 28-55 6 0 12 11 24 55"/>
+    <path d="M250 350c12-35 20-44 24-44 5 0 10 9 18 44"/>
+    <path d="M332 346c14-31 25-40 31-40 7 0 12 9 22 40"/>
+  </g>
+  <rect x="482" y="190" width="620" height="284" rx="30" fill="#fffdf9" stroke="#d6ceb9" stroke-width="4"/>
+  <rect x="522" y="238" width="254" height="180" rx="24" fill="#eef4e4"/>
+  <path d="M522 356c54-58 120-91 178-88 30 1 53 10 76 28v122H522Z" fill="#8baa64"/>
+  <path d="M734 238h42v180h-42" fill="#d6ceb9"/>
+  <g fill="#4f693e">
+    <rect x="828" y="246" width="228" height="20" rx="10"/>
+    <rect x="828" y="288" width="194" height="20" rx="10" opacity=".86"/>
+    <rect x="828" y="330" width="214" height="20" rx="10" opacity=".72"/>
+  </g>
+  <g fill="#ba7550">
+    <rect x="828" y="390" width="92" height="22" rx="11"/>
+    <rect x="936" y="390" width="100" height="22" rx="11" opacity=".8"/>
+  </g>
+  <g transform="translate(714 516)">
+    <rect x="0" y="0" width="404" height="156" rx="24" fill="#fffaf0" stroke="#d6ceb9" stroke-width="4"/>
+    <circle cx="66" cy="52" r="22" fill="#f6d16f"/>
+    <rect x="114" y="34" width="216" height="16" rx="8" fill="#4f693e"/>
+    <rect x="114" y="64" width="170" height="14" rx="7" fill="#8baa64"/>
+    <rect x="114" y="96" width="242" height="14" rx="7" fill="#d6ceb9"/>
+    <g fill="#627c4d">
+      <path d="M34 128c10-34 18-50 24-50 6 0 12 16 20 50"/>
+      <path d="M74 128c7-24 14-36 18-36 5 0 9 12 14 36"/>
+    </g>
+  </g>
+</svg>

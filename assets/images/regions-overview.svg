@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">Regional drought lawn map illustration</title>
+  <desc id="desc">Stylized map board showing hot and mixed regions for drought tolerant grass decisions.</desc>
+  <rect width="1100" height="620" rx="34" fill="#faf6eb"/>
+  <rect x="72" y="76" width="956" height="468" rx="30" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+  <path d="M174 168c84-40 188-62 282-54 62 5 124 22 174 54 41 27 81 42 138 44 52 2 107 19 148 52 42 34 67 81 78 150-80 42-164 64-244 64-103 0-200-37-291-59-84-20-159-16-241-6-86 10-166-4-232-42-24-59-28-111-12-157 16-45 49-77 104-104 37-18 62-30 96-42z" fill="#f1d091"/>
+  <path d="M186 386c60 22 120 28 189 20 98-11 185-26 286 3 72 20 146 54 230 60 45 4 89 0 132-10-21 35-47 62-79 83-61 39-139 56-222 56-92 0-175-22-259-42-104-24-196-29-277-17-69 11-126 3-174-23-19-45-28-88-26-130z" fill="#8baa64"/>
+  <g fill="#4f693e">
+    <circle cx="344" cy="424" r="22"/>
+    <circle cx="522" cy="352" r="22"/>
+    <circle cx="698" cy="392" r="22"/>
+    <circle cx="834" cy="446" r="22"/>
+  </g>
+  <g fill="#fff">
+    <rect x="810" y="128" width="164" height="110" rx="24"/>
+    <rect x="810" y="266" width="164" height="110" rx="24"/>
+  </g>
+  <rect x="842" y="154" width="28" height="28" rx="8" fill="#f1d091"/>
+  <rect x="842" y="292" width="28" height="28" rx="8" fill="#8baa64"/>
+  <rect x="886" y="160" width="64" height="14" rx="7" fill="#4f693e"/>
+  <rect x="886" y="298" width="72" height="14" rx="7" fill="#4f693e"/>
+  <rect x="886" y="184" width="52" height="12" rx="6" fill="#8baa64"/>
+  <rect x="886" y="322" width="58" height="12" rx="6" fill="#8baa64"/>
+</svg>

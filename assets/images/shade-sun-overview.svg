@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Shade and sun lawn illustration</title>
+  <desc id="desc">Illustration comparing a shaded lawn section with a sunny lawn section.</desc>
+  <rect width="980" height="620" rx="34" fill="#faf6eb"/>
+  <rect x="62" y="84" width="396" height="454" rx="30" fill="#eef4e4" stroke="#d6ceb9" stroke-width="4"/>
+  <rect x="522" y="84" width="396" height="454" rx="30" fill="#fff8e6" stroke="#d6ceb9" stroke-width="4"/>
+  <circle cx="722" cy="156" r="54" fill="#f6d16f"/>
+  <circle cx="722" cy="156" r="36" fill="#ffecae"/>
+  <g fill="#dbe7cd">
+    <circle cx="220" cy="138" r="34"/>
+    <circle cx="258" cy="124" r="42"/>
+    <circle cx="298" cy="142" r="28"/>
+  </g>
+  <rect x="128" y="194" width="56" height="198" rx="22" fill="#77583a"/>
+  <g fill="#627c4d">
+    <circle cx="156" cy="174" r="52"/>
+    <circle cx="116" cy="202" r="44"/>
+    <circle cx="194" cy="204" r="46"/>
+  </g>
+  <path d="M92 420c52-26 116-38 186-30 44 5 88 18 120 44v104H92Z" fill="#8baa64"/>
+  <path d="M552 414c62-30 132-40 212-26 44 8 92 24 124 54v82H552Z" fill="#7ea460"/>
+  <g fill="#4f693e">
+    <rect x="112" y="466" width="160" height="14" rx="7"/>
+    <rect x="112" y="492" width="132" height="12" rx="6" fill="#8baa64"/>
+    <rect x="566" y="466" width="174" height="14" rx="7"/>
+    <rect x="566" y="492" width="148" height="12" rx="6" fill="#8baa64"/>
+  </g>
+</svg>

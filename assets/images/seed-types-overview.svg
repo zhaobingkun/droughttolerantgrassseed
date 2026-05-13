@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Seed types overview illustration</title>
+  <desc id="desc">Three stylized seed type cards representing bermuda, zoysia, and tall fescue.</desc>
+  <rect width="960" height="620" rx="34" fill="#f8f4ea"/>
+  <g transform="translate(66 88)">
+    <rect width="240" height="430" rx="28" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+    <rect x="28" y="28" width="184" height="92" rx="24" fill="#e7f0db"/>
+    <g fill="#4f693e">
+      <path d="M68 108c20-62 34-86 42-86s20 24 44 86"/>
+      <path d="M118 108c12-42 22-58 28-58s12 16 24 58"/>
+    </g>
+    <rect x="28" y="156" width="160" height="16" rx="8" fill="#4f693e"/>
+    <rect x="28" y="188" width="130" height="14" rx="7" fill="#8baa64"/>
+    <rect x="28" y="224" width="184" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="250" width="170" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="276" width="150" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="334" width="112" height="26" rx="13" fill="#ba7550"/>
+  </g>
+  <g transform="translate(360 52)">
+    <rect width="240" height="466" rx="28" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+    <rect x="28" y="28" width="184" height="100" rx="24" fill="#edf5df"/>
+    <g fill="#7aa460">
+      <path d="M60 114c22-54 32-76 42-76 10 0 22 22 46 76"/>
+      <path d="M112 112c14-36 24-52 30-52 7 0 14 16 24 52"/>
+    </g>
+    <circle cx="186" cy="76" r="18" fill="#f6d16f"/>
+    <rect x="28" y="168" width="150" height="16" rx="8" fill="#4f693e"/>
+    <rect x="28" y="200" width="122" height="14" rx="7" fill="#8baa64"/>
+    <rect x="28" y="236" width="184" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="262" width="172" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="288" width="150" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="360" width="126" height="26" rx="13" fill="#627c4d"/>
+  </g>
+  <g transform="translate(654 88)">
+    <rect width="240" height="430" rx="28" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+    <rect x="28" y="28" width="184" height="92" rx="24" fill="#faf5e4"/>
+    <g fill="#98b67f">
+      <path d="M54 106c16-58 26-80 34-80 8 0 18 22 38 80"/>
+      <path d="M108 104c12-40 20-54 26-54 6 0 12 14 22 54"/>
+      <path d="M150 102c9-28 14-38 18-38 5 0 9 10 16 38"/>
+    </g>
+    <rect x="28" y="156" width="158" height="16" rx="8" fill="#4f693e"/>
+    <rect x="28" y="188" width="136" height="14" rx="7" fill="#8baa64"/>
+    <rect x="28" y="224" width="184" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="250" width="170" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="276" width="155" height="12" rx="6" fill="#d6ceb9"/>
+    <rect x="28" y="334" width="132" height="26" rx="13" fill="#c99463"/>
+  </g>
+</svg>

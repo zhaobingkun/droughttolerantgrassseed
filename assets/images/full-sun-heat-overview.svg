@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Full sun and heat lawn illustration</title>
+  <desc id="desc">Stylized hot sunny lawn scene with strong sunlight and durable grass bands.</desc>
+  <rect width="980" height="620" rx="34" fill="#fbf3e3"/>
+  <circle cx="760" cy="128" r="80" fill="#f6d16f"/>
+  <circle cx="760" cy="128" r="58" fill="#ffecae"/>
+  <g stroke="#f1c14b" stroke-width="10" stroke-linecap="round">
+    <line x1="760" y1="18" x2="760" y2="52"/>
+    <line x1="760" y1="204" x2="760" y2="238"/>
+    <line x1="650" y1="128" x2="684" y2="128"/>
+    <line x1="836" y1="128" x2="870" y2="128"/>
+    <line x1="688" y1="56" x2="710" y2="78"/>
+    <line x1="812" y1="178" x2="834" y2="200"/>
+    <line x1="688" y1="200" x2="710" y2="178"/>
+    <line x1="812" y1="78" x2="834" y2="56"/>
+  </g>
+  <path d="M0 430c136-74 284-102 430-86 150 16 286 82 550 194v82H0Z" fill="#8baa64"/>
+  <path d="M0 474c118-32 248-28 370 12 122 40 244 54 384 38 84-9 160-34 226-74v170H0Z" fill="#4f693e"/>
+  <rect x="96" y="122" width="294" height="176" rx="30" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+  <rect x="130" y="160" width="160" height="18" rx="9" fill="#4f693e"/>
+  <rect x="130" y="194" width="128" height="14" rx="7" fill="#8baa64"/>
+  <rect x="130" y="234" width="224" height="16" rx="8" fill="#c99463"/>
+  <g fill="#627c4d">
+    <path d="M154 298c18-60 30-82 40-82 10 0 20 22 42 82"/>
+    <path d="M234 298c14-40 24-56 30-56 7 0 14 16 24 56"/>
+  </g>
+</svg>

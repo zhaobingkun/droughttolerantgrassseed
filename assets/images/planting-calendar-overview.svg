@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620" role="img" aria-labelledby="title desc">
+  <title id="title">Planting calendar illustration</title>
+  <desc id="desc">Stylized calendar with seasonal windows for warm-season and cool-season grass planting.</desc>
+  <rect width="1040" height="620" rx="34" fill="#faf6eb"/>
+  <rect x="84" y="92" width="872" height="436" rx="32" fill="#fffdf7" stroke="#d6ceb9" stroke-width="4"/>
+  <rect x="84" y="92" width="872" height="96" rx="32" fill="#edf5df"/>
+  <g fill="#4f693e">
+    <rect x="132" y="128" width="106" height="18" rx="9"/>
+    <rect x="310" y="128" width="106" height="18" rx="9"/>
+    <rect x="488" y="128" width="106" height="18" rx="9"/>
+    <rect x="666" y="128" width="106" height="18" rx="9"/>
+    <rect x="844" y="128" width="60" height="18" rx="9"/>
+  </g>
+  <g stroke="#d6ceb9" stroke-width="3">
+    <line x1="172" y1="204" x2="172" y2="496"/>
+    <line x1="320" y1="204" x2="320" y2="496"/>
+    <line x1="468" y1="204" x2="468" y2="496"/>
+    <line x1="616" y1="204" x2="616" y2="496"/>
+    <line x1="764" y1="204" x2="764" y2="496"/>
+    <line x1="912" y1="204" x2="912" y2="496"/>
+    <line x1="112" y1="276" x2="928" y2="276"/>
+    <line x1="112" y1="348" x2="928" y2="348"/>
+    <line x1="112" y1="420" x2="928" y2="420"/>
+  </g>
+  <rect x="192" y="224" width="392" height="36" rx="18" fill="#ba7550"/>
+  <rect x="506" y="296" width="330" height="36" rx="18" fill="#627c4d"/>
+  <rect x="264" y="368" width="188" height="36" rx="18" fill="#f1d091"/>
+  <g fill="#4f693e">
+    <rect x="128" y="226" width="42" height="12" rx="6"/>
+    <rect x="128" y="298" width="42" height="12" rx="6"/>
+    <rect x="128" y="370" width="42" height="12" rx="6"/>
+  </g>
+</svg>
