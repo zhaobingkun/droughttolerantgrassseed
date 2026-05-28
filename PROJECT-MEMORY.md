@@ -43,7 +43,7 @@
 
 ## Current Page Count
 
-- Total `index.html` pages: `27`
+- Total `index.html` pages: `32`
 
 ## Current Core Long-Tail Pages
 

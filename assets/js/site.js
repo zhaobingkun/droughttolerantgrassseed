@@ -9,7 +9,8 @@
 
   if (navToggle && navLinks) {
     navToggle.addEventListener("click", function () {
-      navLinks.classList.toggle("is-open");
+      var isOpen = navLinks.classList.toggle("is-open");
+      navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
     });
   }
 })();
