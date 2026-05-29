@@ -43,7 +43,7 @@
 
 ## Current Page Count
 
-- Total `index.html` pages: `32`
+- Total `index.html` pages: `44`
 
 ## Current Core Long-Tail Pages
 
@@ -58,6 +58,18 @@
   - `/guides/transition-zone-drought-tolerant-grass/`
   - `/guides/overseeding-drought-tolerant-lawn/`
   - `/guides/best-grass-seed-for-full-sun-and-heat/`
+  - `/guides/best-grass-seed-for-poor-soil-and-drought/`
+  - `/guides/best-grass-seed-for-sandy-soil/`
+  - `/guides/xeriscape-lawn-alternatives/`
+  - `/guides/low-water-lawn-for-hoa-neighborhoods/`
+  - `/guides/drought-tolerant-lawn-seed-reviews/`
+  - `/guides/best-grass-seed-for-clay-soil-and-drought/`
+  - `/guides/drought-tolerant-grass-seed-for-erosion-control/`
+  - `/guides/low-maintenance-grass-for-water-restrictions/`
+  - `/guides/best-grass-seed-for-rocky-soil/`
+  - `/guides/drought-tolerant-grass-for-playground-areas/`
+  - `/guides/pet-friendly-low-water-lawn/`
+  - `/guides/best-grass-seed-for-compacted-soil/`
 - Seed types:
   - `/seed-types/bermuda-grass-seed/`
   - `/seed-types/zoysia-grass-seed/`
@@ -174,11 +186,17 @@
 
 ## Recommended Next Batch
 
-- `best grass seed for poor soil and drought`
-- `best grass seed for sandy soil`
-- `xeriscape lawn alternatives`
 - `drought tolerant lawn seed reviews`
-- `low-water lawn for HOA neighborhoods`
+- `centipede grass seed for drought`
+- `best grass seed for clay soil and drought`
+- `drought tolerant grass seed for erosion control`
+- `low-maintenance grass for water restrictions`
+- `best grass seed for rocky soil`
+- `drought tolerant grass for playground areas`
+- `pet-friendly low-water lawn`
+- `best grass seed for compacted soil`
+- `centipede grass seed for drought`
+- `low-water front yard grass`
 
 ## Practical Notes For Future Sessions
 

@@ -34,6 +34,18 @@ Static SEO site scaffold for the keyword cluster around `drought tolerant grass 
 - `/guides/transition-zone-drought-tolerant-grass/`
 - `/guides/overseeding-drought-tolerant-lawn/`
 - `/guides/best-grass-seed-for-full-sun-and-heat/`
+- `/guides/best-grass-seed-for-poor-soil-and-drought/`
+- `/guides/best-grass-seed-for-sandy-soil/`
+- `/guides/xeriscape-lawn-alternatives/`
+- `/guides/low-water-lawn-for-hoa-neighborhoods/`
+- `/guides/drought-tolerant-lawn-seed-reviews/`
+- `/guides/best-grass-seed-for-clay-soil-and-drought/`
+- `/guides/drought-tolerant-grass-seed-for-erosion-control/`
+- `/guides/low-maintenance-grass-for-water-restrictions/`
+- `/guides/best-grass-seed-for-rocky-soil/`
+- `/guides/drought-tolerant-grass-for-playground-areas/`
+- `/guides/pet-friendly-low-water-lawn/`
+- `/guides/best-grass-seed-for-compacted-soil/`
 
 ## Notes
 
