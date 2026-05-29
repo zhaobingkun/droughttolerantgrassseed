@@ -43,7 +43,7 @@
 
 ## Current Page Count
 
-- Total `index.html` pages: `44`
+- Total `index.html` pages: `48`
 
 ## Current Core Long-Tail Pages
 
@@ -70,11 +70,15 @@
   - `/guides/drought-tolerant-grass-for-playground-areas/`
   - `/guides/pet-friendly-low-water-lawn/`
   - `/guides/best-grass-seed-for-compacted-soil/`
+  - `/guides/low-water-front-yard-grass/`
+  - `/guides/best-drought-tolerant-grass-seed-for-curb-appeal/`
+  - `/guides/low-water-lawn-for-small-yards/`
 - Seed types:
   - `/seed-types/bermuda-grass-seed/`
   - `/seed-types/zoysia-grass-seed/`
   - `/seed-types/tall-fescue-drought/`
   - `/seed-types/buffalograss-seed/`
+  - `/seed-types/centipede-grass-seed/`
 - Regions:
   - `/regions/texas/`
   - `/regions/california/`
@@ -195,8 +199,8 @@
 - `drought tolerant grass for playground areas`
 - `pet-friendly low-water lawn`
 - `best grass seed for compacted soil`
-- `centipede grass seed for drought`
-- `low-water front yard grass`
+- `best grass seed for pool areas`
+- `drought tolerant grass for backyard entertaining`
 
 ## Practical Notes For Future Sessions
 

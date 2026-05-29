@@ -46,6 +46,10 @@ Static SEO site scaffold for the keyword cluster around `drought tolerant grass 
 - `/guides/drought-tolerant-grass-for-playground-areas/`
 - `/guides/pet-friendly-low-water-lawn/`
 - `/guides/best-grass-seed-for-compacted-soil/`
+- `/guides/low-water-front-yard-grass/`
+- `/seed-types/centipede-grass-seed/`
+- `/guides/best-drought-tolerant-grass-seed-for-curb-appeal/`
+- `/guides/low-water-lawn-for-small-yards/`
 
 ## Notes
 
