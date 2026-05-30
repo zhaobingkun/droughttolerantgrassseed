@@ -43,7 +43,7 @@
 
 ## Current Page Count
 
-- Total `index.html` pages: `48`
+- Total `index.html` pages: `56`
 
 ## Current Core Long-Tail Pages
 
@@ -73,6 +73,14 @@
   - `/guides/low-water-front-yard-grass/`
   - `/guides/best-drought-tolerant-grass-seed-for-curb-appeal/`
   - `/guides/low-water-lawn-for-small-yards/`
+  - `/guides/best-grass-seed-for-pool-areas/`
+  - `/guides/drought-tolerant-grass-for-backyard-entertaining/`
+  - `/guides/best-grass-for-patio-areas/`
+  - `/guides/low-water-lawn-for-rental-properties/`
+  - `/guides/drought-tolerant-grass-for-side-yards/`
+  - `/guides/best-low-water-grass-for-busy-families/`
+  - `/guides/drought-tolerant-grass-for-courtyards/`
+  - `/guides/best-low-water-grass-for-dog-runs/`
 - Seed types:
   - `/seed-types/bermuda-grass-seed/`
   - `/seed-types/zoysia-grass-seed/`
@@ -199,8 +207,8 @@
 - `drought tolerant grass for playground areas`
 - `pet-friendly low-water lawn`
 - `best grass seed for compacted soil`
-- `best grass seed for pool areas`
-- `drought tolerant grass for backyard entertaining`
+- `best low-water grass for townhomes`
+- `drought tolerant grass for narrow backyards`
 
 ## Practical Notes For Future Sessions
 
