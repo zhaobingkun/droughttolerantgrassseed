@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://droughttolerantgrassseed.com/sitemap-core.xml
 Sitemap: https://droughttolerantgrassseed.com/sitemap.xml

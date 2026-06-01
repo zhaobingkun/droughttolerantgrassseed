@@ -58,6 +58,12 @@ Static SEO site scaffold for the keyword cluster around `drought tolerant grass 
 - `/guides/best-low-water-grass-for-busy-families/`
 - `/guides/drought-tolerant-grass-for-courtyards/`
 - `/guides/best-low-water-grass-for-dog-runs/`
+- `/guides/best-low-water-grass-for-townhomes/`
+- `/guides/drought-tolerant-grass-for-narrow-backyards/`
+- `/guides/best-grass-for-shared-yards/`
+- `/guides/low-water-grass-for-row-houses/`
+- `/guides/drought-tolerant-grass-for-courtyard-paths/`
+- `/guides/best-low-water-grass-for-duplexes/`
 
 ## Notes
 

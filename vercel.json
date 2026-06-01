@@ -1,0 +1,17 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.droughttolerantgrassseed.com"
+        }
+      ],
+      "destination": "https://droughttolerantgrassseed.com/:path*",
+      "permanent": true
+    }
+  ]
+}
